@@ -8,4 +8,4 @@ Gemfile.lock
 bower_components
 .vscode/*
 demo/dist/*
-*lock
+*lock.json
